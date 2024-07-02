@@ -1,2 +1,2 @@
 # zernov-vr--appstore
-магfзин для zernov ar_headset 
+магазин для zernov ar_headset 
